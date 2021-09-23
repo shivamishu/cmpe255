@@ -1,2 +1,19 @@
-# cmpe255
+# CMPE 255
 CMPE 255 Data Mining Assignments
+## Data cleaning practice exercise
+Shivam Shirivastav  
+SJSU ID: 015275000  
+CMPE 255  
+email: shivam.shrivastav@sjsu.edu
+
+Dataset: California Housing Price Dataset  
+Downloaded from Kaggle https://www.kaggle.com/camnugent/california-housing-prices
+
+Requirments:  
+
+a) Pick a kaggle data set which might be fairly noisy.  
+
+b) write a data cleaning and preprocessing  and visualization colab using any data set
+
+c) you can do model training with scikit learn as well but we will not check the accuracy/performance of the model. the main focus is whether you did the right data cleaning
+
