@@ -37,5 +37,12 @@ v) ISOMAP
 
 vi) UMAP
 
+Colab Link: Tabular Data
+https://github.com/shivamishu/cmpe255/blob/main/Shivam_Dimensionality_Reduction_Techniques_on_Tabular_Data.ipynb
+
+Colab Link: Image Data
+https://github.com/shivamishu/cmpe255/blob/main/Shivam_Dimensionality_Reduction_Techniques_using_Image_data.ipynb
+
+
 
 
