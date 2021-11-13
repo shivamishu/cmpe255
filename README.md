@@ -43,6 +43,23 @@ https://github.com/shivamishu/cmpe255/blob/main/Shivam_Dimensionality_Reduction_
 Colab Link: Image Data
 https://github.com/shivamishu/cmpe255/blob/main/Shivam_Dimensionality_Reduction_Techniques_using_Image_data.ipynb
 
+# Assignment 3: TBD
+
+# Assignment 4: TBD
+
+# Short Story Survey
+
+### **Deep Learning based Identity and Biometrics Recognition**
+
+Medium Article: 
+
+PPT: 
+
+Demo: 
+
+
+Original Reference Paper Authors: Survey Paper Authors: Shervin Minaee, Amirali Abdolrashidi, Hang Su, Mohammed Bennamoun, David Zhang
+Paper Link: https://arxiv.org/pdf/1912.00271.pdf  
 
 
 
