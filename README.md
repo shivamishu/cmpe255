@@ -43,7 +43,20 @@ https://github.com/shivamishu/cmpe255/blob/main/Shivam_Dimensionality_Reduction_
 Colab Link: Image Data
 https://github.com/shivamishu/cmpe255/blob/main/Shivam_Dimensionality_Reduction_Techniques_using_Image_data.ipynb
 
-# Assignment 3: TBD
+# Assignment 3: 
+
+Requirement:  
+Use state of the art libraries for Approximate nearest neighbor  
+
+Implementing the below ANN alogorithms
+
+1. Exhaustive Search
+2. Product Quantization
+3. Trees and Graphs
+4. LSH: Locality-sensitive hashing
+5. HNSW: Hierarchical Navigable Small World
+
+Colab Link: https://github.com/shivamishu/cmpe255/blob/main/StateOfTheArtLibrariesForApproximateNearestNeighborSearch.ipynb
 
 # Assignment 4: TBD
 
