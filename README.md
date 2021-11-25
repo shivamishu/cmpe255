@@ -64,11 +64,11 @@ Colab Link: https://github.com/shivamishu/cmpe255/blob/main/StateOfTheArtLibrari
 
 ### **Deep Learning based Identity and Biometrics Recognition**
 
-Medium Article: 
+Medium Article: https://medium.com/@shivam.shrivastav/deep-learning-based-identity-and-biometrics-recognition-d5ee98855512
 
-PPT: 
+PPT: https://docs.google.com/presentation/d/1Wi-2jrvkQXMX7fE7nMp4WRuN_4Z9tHJa/edit?usp=sharing&ouid=111505733594008531984&rtpof=true&sd=true
 
-Demo: 
+Demo: TBD
 
 
 Original Reference Paper Authors: Survey Paper Authors: Shervin Minaee, Amirali Abdolrashidi, Hang Su, Mohammed Bennamoun, David Zhang
