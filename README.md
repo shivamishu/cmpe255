@@ -75,7 +75,7 @@ Medium Article: https://medium.com/@shivam.shrivastav/deep-learning-based-identi
 
 PPT: https://docs.google.com/presentation/d/1Wi-2jrvkQXMX7fE7nMp4WRuN_4Z9tHJa/edit?usp=sharing&ouid=111505733594008531984&rtpof=true&sd=true
 
-Demo: TBD
+Demo: https://drive.google.com/file/d/1z2BZ5dem-h9JSdWzFwFAm9vdIc0C_2DC/view?usp=sharing
 
 
 Original Reference Paper Authors: Survey Paper Authors: Shervin Minaee, Amirali Abdolrashidi, Hang Su, Mohammed Bennamoun, David Zhang
