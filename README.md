@@ -59,7 +59,13 @@ Implementing the below ANN alogorithms
 Colab Link: https://github.com/shivamishu/cmpe255/blob/main/StateOfTheArtLibrariesForApproximateNearestNeighborSearch.ipynb
 
 # Assignment 4: Use various clustering techniques in colab
+ 
+
  K-Means clustering: https://github.com/shivamishu/cmpe255/blob/main/K_Means.ipynb  
+ 
+ GMM and Hierarchical  Clustering: https://github.com/shivamishu/cmpe255/blob/main/GMM_and_Hierarchical_Clusteringipynb.ipynb
+ 
+ DBScan: 
 
 # Short Story Survey
 
