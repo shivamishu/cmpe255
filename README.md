@@ -65,7 +65,7 @@ Colab Link: https://github.com/shivamishu/cmpe255/blob/main/StateOfTheArtLibrari
  
  GMM and Hierarchical  Clustering: https://github.com/shivamishu/cmpe255/blob/main/GMM_and_Hierarchical_Clusteringipynb.ipynb
  
- DBScan: 
+ DBScan:  https://github.com/shivamishu/cmpe255/blob/main/DBSCAN.ipynb  
 
 # Short Story Survey
 
