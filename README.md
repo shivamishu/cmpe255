@@ -82,4 +82,44 @@ Original Reference Paper Authors: Survey Paper Authors: Shervin Minaee, Amirali 
 Paper Link: https://arxiv.org/pdf/1912.00271.pdf  
 
 
+# Catch up assignment part 1
+
+a- Write apriori algorithm from scratch in python and demonstrate it in colab
+
+https://github.com/shivamishu/cmpe255/blob/main/Apriori_Algorithm.ipynb
+
+ 
+
+b- Write classic GBM method from scratch in python and demonstrate in colab
+
+https://github.com/shivamishu/cmpe255/blob/main/GradientBoost.ipynb
+
+c- Write fpgrowth algorithm from scratch in python and demonstrate it in colab
+
+https://github.com/shivamishu/cmpe255/blob/main/FP_Growth_Algorithm.ipynb
+
+ 
+
+d- Write kmeans from scratch and demonstrate it in colab
+
+https://github.com/shivamishu/cmpe255/blob/main/K_Means_Scratch.ipynb
+
+ 
+
+e - Write decision trees from scratch and demonstrate it in colab
+
+ https://github.com/shivamishu/cmpe255/blob/main/decisionTree.ipynb
+
+ 
+
+f - Write random forest from scratdch and demonstrate it in colab
+
+https://github.com/shivamishu/cmpe255/blob/main/RandomForrest_Algorithm.ipynb
+
+ 
+
+g - Write adaboost algorithm from scratch and demonstrte it in colab
+
+https://github.com/shivamishu/cmpe255/blob/main/AdaBoost_Algorithm.ipynb
+
 
