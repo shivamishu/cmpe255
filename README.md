@@ -66,20 +66,12 @@ Colab Link: https://github.com/shivamishu/cmpe255/blob/main/StateOfTheArtLibrari
  GMM and Hierarchical  Clustering: https://github.com/shivamishu/cmpe255/blob/main/GMM_and_Hierarchical_Clusteringipynb.ipynb
  
  DBScan:  https://github.com/shivamishu/cmpe255/blob/main/DBSCAN.ipynb  
+ 
+ 
+ # Assignment 5:
+colab to demonstrate use of gradient boost methods :  
+https://github.com/shivamishu/cmpe255/blob/main/GradientBoostingMethods.ipynb
 
-# Short Story Survey
-
-### **Deep Learning based Identity and Biometrics Recognition**
-
-Medium Article: https://medium.com/@shivam.shrivastav/deep-learning-based-identity-and-biometrics-recognition-d5ee98855512
-
-PPT: https://docs.google.com/presentation/d/1Wi-2jrvkQXMX7fE7nMp4WRuN_4Z9tHJa/edit?usp=sharing&ouid=111505733594008531984&rtpof=true&sd=true
-
-Demo: https://drive.google.com/file/d/1z2BZ5dem-h9JSdWzFwFAm9vdIc0C_2DC/view?usp=sharing
-
-
-Original Reference Paper Authors: Survey Paper Authors: Shervin Minaee, Amirali Abdolrashidi, Hang Su, Mohammed Bennamoun, David Zhang
-Paper Link: https://arxiv.org/pdf/1912.00271.pdf  
 
 
 # Catch up assignment part 1
@@ -123,3 +115,18 @@ g - Write adaboost algorithm from scratch and demonstrte it in colab
 https://github.com/shivamishu/cmpe255/blob/main/AdaBoost_Algorithm.ipynb
 
 
+
+# Short Story Survey
+
+### **Deep Learning based Identity and Biometrics Recognition**
+
+Medium Article: https://medium.com/@shivam.shrivastav/deep-learning-based-identity-and-biometrics-recognition-d5ee98855512
+
+PPT: https://docs.google.com/presentation/d/1Wi-2jrvkQXMX7fE7nMp4WRuN_4Z9tHJa/edit?usp=sharing&ouid=111505733594008531984&rtpof=true&sd=true
+
+Demo: https://drive.google.com/file/d/1z2BZ5dem-h9JSdWzFwFAm9vdIc0C_2DC/view?usp=sharing
+
+
+Original Reference Paper Authors: Survey Paper Authors: Shervin Minaee, Amirali Abdolrashidi, Hang Su, Mohammed Bennamoun, David Zhang
+Paper Link: https://arxiv.org/pdf/1912.00271.pdf  
+  
