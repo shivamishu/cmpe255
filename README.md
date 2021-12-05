@@ -72,6 +72,14 @@ Colab Link: https://github.com/shivamishu/cmpe255/blob/main/StateOfTheArtLibrari
 colab to demonstrate use of gradient boost methods :  
 https://github.com/shivamishu/cmpe255/blob/main/GradientBoostingMethods.ipynb
 
+ # Assignment 6:
+ apriori algorithm from scratch in python and demonstrate it in colab  
+
+ https://github.com/shivamishu/cmpe255/blob/main/Apriori_Algorithm.ipynb  
+
+ fpgrowth algorithm from scratch in python and demonstrate it in colab   
+
+ https://github.com/shivamishu/cmpe255/blob/main/FP_Growth_Algorithm.ipynb   
 
 
 # Catch up assignment part 1
